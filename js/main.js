@@ -1,9 +1,9 @@
 const typed = new Typed('.typed', {
 	strings: [
-		'<i class="direct">House</i>',
-		'<i class="direct">Business</i>',
-		'<i class="direct">Office</i>',
-		'<i class="direct">Street</i>'
+		'<i class="direct">Tesla</i>',
+		'<i class="direct">Toyota</i>',
+		'<i class="direct">Honda</i>',
+		'<i class="direct">Jeep</i>'
 	],
 
 	//stringsElement: '#cadenas-texto', // ID del elemento que contiene cadenas de texto a mostrar.
